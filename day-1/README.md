@@ -118,10 +118,6 @@ Because the dial points at 0 a total of three times during this process, the pas
 
 Analyze the rotations in your attached document. What's the actual password to open the door?
 
-Your puzzle answer was 1168.
-
-The first half of this puzzle is complete! It provides one gold star: \*
-
 --- Part Two ---
 
 You're sure that's the right password, but the door won't open. You knock, but nobody answers. You build a snowman while you think.
@@ -150,9 +146,3 @@ In this example, the dial points at 0 three times at the end of a rotation, plus
 Be careful: if the dial were pointing at 50, a single rotation like R1000 would cause the dial to point at 0 ten times before returning back to 50!
 
 Using password method 0x434C49434B, what is the password to open the door?
-
-Answer:
-
-Although it hasn't changed, you can still get your puzzle input.
-
-You can also [Share] this puzzle.
